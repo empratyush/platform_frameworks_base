@@ -318,7 +318,6 @@ public final class UserTypeFactory {
                         .setStartWithParent(true)
                         .setCredentialShareableWithParent(true)
                         .setAuthAlwaysRequiredToDisableQuietMode(true)
-                        .setAllowStoppingUserWithDelayedLocking(true)
                         .setMediaSharedWithParent(false)
                         .setShowInLauncher(UserProperties.SHOW_IN_LAUNCHER_SEPARATE)
                         .setShowInSettings(UserProperties.SHOW_IN_SETTINGS_SEPARATE)
